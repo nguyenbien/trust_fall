@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/tnex/BienNT/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/tnex/Downloads/trust_fall-1.0.4/example"
+export "FLUTTER_APPLICATION_PATH=/Users/tnex/BienNT/trust_fall/example"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
