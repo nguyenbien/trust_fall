@@ -5,9 +5,10 @@ author: Anish Madhu <anish_adm@yahoo.com>
 homepage: https://github.com/anish-adm/trust_fall
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  collection: ^1.15.0
   flutter:
     sdk: flutter
 
